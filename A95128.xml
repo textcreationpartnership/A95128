@@ -1,0 +1,471 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True picture of the much honoured &amp; reverend Mr. John King (sometimes minister of Abbots-Langley, Hertfordshire) for the closets of his friends.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95128</idno>
+            <idno type="STC">Wing T2855</idno>
+            <idno type="STC">ESTC R43798</idno>
+            <idno type="EEBO-CITATION">42475255</idno>
+            <idno type="OCLC">ocm 42475255</idno>
+            <idno type="VID">151414</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95128)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151414)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2258:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True picture of the much honoured &amp; reverend Mr. John King (sometimes minister of Abbots-Langley, Hertfordshire) for the closets of his friends.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the Year 1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>King, John, d. 1679 --  Poetry.</term>
+               <term>Elegiac poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:151414:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 79 -->
+            <head>A TRUE PICTURE Of the much Honoured &amp; Reverend M<hi rend="sup">r.</hi> JOHN KING, (Sometimes Miniſter of <hi>Abbots-Langley, Hert<g ref="char:EOLhyphen"/>fordſhine</hi>) for the <hi>Cloſets</hi> of his <hi>Friends.</hi>
+            </head>
+            <lg>
+               <l>WIll he that diggs up rugged Stone direct,</l>
+               <l>Or the rough Maſon venture to erect</l>
+               <l>A Royal Tomb? Yet I, unskilful I,</l>
+               <l>Am call'd to ſtrain my Nature in an <hi>Elegy</hi>
+               </l>
+               <l>On a good <hi>King.</hi> Nothing will pleaſe but Verſe.</l>
+               <l>Sad Verſe diſgrace a Kingly Prophet's Herſe.</l>
+               <l>But yet I'll try, altho another mend.</l>
+               <l>An ill-drawn Picture of a loved Friend,</l>
+               <l>As much eſteem'd, is hung in chiefeſt place.</l>
+               <l>Love overlooks courſe Paint; 'tis the dear Face</l>
+               <l>It hangs upon; if that be taken right,</l>
+               <l>It draws, more than the Frame or Paint, the Sight.</l>
+               <l>I will not paint, I'll take my Pen, and write;</l>
+               <l>I'll uſe no Colours, only black and white.</l>
+               <l>The one his Death and Innocence preſent;</l>
+               <l>The other that, which mourning I lament.</l>
+               <pb facs="tcp:151414:2"/>
+               <!-- PDF PAGE 80 -->
+               <pb facs="tcp:151414:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 80 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <l>
+                  <pb n="2" facs="tcp:151414:3"/>
+                  <!-- PDF PAGE 81 -->
+Take a full ſtroke: At one ſtroke write him <hi>Saint,</hi>
+               </l>
+               <l>That did abhor all Hypocritic Paint.</l>
+               <l>Next, in him there was nothing low, but Stature,</l>
+               <l>Which was ſuppli'd with noble Soul and Feature.</l>
+               <l>In him you'd think you ſaw ſome Judg, or rather</l>
+               <l>Some grave and ancient, learned, holy Father.</l>
+               <l>Yea, our <hi>King</hi>'s Face had Majeſty and Love.</l>
+               <l>He look'd as the he ſought a Crown above.</l>
+               <l>He never mir'd his Soul in worldly Pelf,</l>
+               <l>Nor wanted what was decent for himſelf.</l>
+               <l>Had he mov'd higher, he had, like the Sun,</l>
+               <l>Done good to all, and been by none outdone.</l>
+               <l>He ſpake his very thoughts, when Hoſpitals,</l>
+               <l>Or Learning, Schools, or Colleges, or Halls,</l>
+               <l>Were ſpoken of; had Wealth been at's Command,</l>
+               <l>The Scholar, Poor, and Saint had had good Land.</l>
+               <l>Great Souls will talk of what they cannot do,</l>
+               <l>And of the Good they do, think meanly too:</l>
+               <l>Juſt ſo did he.—He early was a Man,</l>
+               <l>A manly Chriſtian Courſe betimes began.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">
+                     <hi>Dr.</hi> Tho. Ta<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lor, <hi>of</hi> Al<g ref="char:EOLhyphen"/>dermanbury, <hi>then of</hi> Wat<g ref="char:EOLhyphen"/>ford.</note>Good Doctor <hi>Taylor</hi> did by Exerciſe</l>
+               <l>In <hi>Greek</hi> take his juſt meaſure, not by ſize,</l>
+               <l>As learn'd enought to wear a Gown, with thoſe,</l>
+               <l>That in <hi>Immanuel</hi> to Greatneſs roſe:</l>
+               <l>What Men they were, I've often heard him tell,</l>
+               <l>How dear to Chriſt, the true <hi>Immanuel.</hi>
+               </l>
+               <l>He liv'd not there to eat, and drink, and ſleep,</l>
+               <l>But ſuck'd his <hi>Alma Mater,</hi> and drunk deep</l>
+               <l>Out of her ſacred Cups: The learned Arts,</l>
+               <l>The Tongues, and ſacred Knowledg fill'd his Parts.</l>
+               <l>Well ſtor'd, at his good Father's time and will,</l>
+               <l>He <hi>Cambridg</hi> left, but loth to try his Skill,</l>
+               <l>Till Grace and Prayers did in time prevail,</l>
+               <l>And the good Spirit drew aſide the Vail</l>
+               <l>
+                  <pb n="3" facs="tcp:151414:3"/>
+                  <!-- PDF PAGE 81 -->
+Of Modeſty, which to his dying day</l>
+               <l>Hung o're his Face, and was not laid away.</l>
+               <l>Great Doctor <hi>Sibbs</hi> did with alluring Smile,</l>
+               <l>Train him into his Toil, and by a Wile,</l>
+               <l>An honeſt Wile, got him faſt fixed there,</l>
+               <l>Where he well ſpent near three and fifty year.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">From his Fa<g ref="char:EOLhyphen"/>ther's Houſe in <hi>Watford</hi> to <hi>Langley.</hi>
+                  </note>The firſt Flight from his Neſt ('twas ſhort) he took,</l>
+               <l>Was to the Houſe of old Sir <hi>Robert Brook:</hi>
+               </l>
+               <l>Whoſe Lady, Holy and Elect, behind</l>
+               <l>Yet ſtays and waiteth for a happy Wind.</l>
+               <l>I did admire to hear, while ſince, how ſtill</l>
+               <l>She writes Epiſtles, as with Angel's Quill.</l>
+               <l>'Twas <hi>She</hi> and <hi>Sibbs</hi> that chiefly laid the Plot,</l>
+               <l>To mount him in that Pulpit; and when got</l>
+               <l>Into the Mount, nothing e're mov'd or drew</l>
+               <l>Him thence, but <hi>black</hi> and windy <hi>Barthol'mew.</hi>
+               </l>
+               <l>Of Meat, and Drink, and Cloth, he took no thought,</l>
+               <l>He cleanly trod the World, nor ſold, nor bought:</l>
+               <l>But kept his Study, left (as well he might)</l>
+               <l>Thoſe Cares unto the prudent over-ſight</l>
+               <l>Of a good Wife, who did diſcharge them well,</l>
+               <l>Whoſe Care and Induſtry did moſt excel.</l>
+               <l>On a ſmall Vic'rage he contented ſate,</l>
+               <l>His Charge came on, and ſo did his Eſtate.</l>
+               <l>I ne're knew Man that did ſo live and thrive,</l>
+               <l>And left ſo much to her that doth ſurvive.</l>
+               <l>He ſought God's Kingdom, and its Righteouſneſs,</l>
+               <l>And by ſo doing got the more, not leſs.</l>
+               <l>He was content in ſuch a ſtate to be,</l>
+               <l>As God had call'd him to in each degree.</l>
+               <l>He was a conſtant Student night and day;</l>
+               <l>It was his Meat to read, to preach, and pray.</l>
+               <l>His Home a Court, his Pulpit was his Throne;</l>
+               <l>He ſought the things of Chriſt, and not his own.</l>
+               <l>
+                  <pb n="4" facs="tcp:151414:4"/>
+                  <!-- PDF PAGE 82 -->
+Could he have rul'd, none had been unbaptiz'd,</l>
+               <l>Nor one baptiz'd, had liv'd uncatechiz'd;</l>
+               <l>Nor one paſt unconfirmed, and unable</l>
+               <l>To plead his Title to the Lord's own Table.</l>
+               <l>He griev'd to think of Peoples Ignorance,</l>
+               <l>And fruitleſs uſe of every Ordinance.</l>
+               <l>His tender Heart did ſigh and groan, to think</l>
+               <l>That any Soul ſhould walk ſo near the brink</l>
+               <l>Of Hell, in Error, or foul ways of Sin,</l>
+               <l>And end far worſe than did their Lives begin.</l>
+               <l>He priz'd dear Souls, and was afraid their Blood</l>
+               <l>Should be requir'd, therefore deſir'd their Good.</l>
+               <l>But careleſs cruel Souls know not their Friends,</l>
+               <l>Until they come to miſerable Ends.</l>
+               <l>Mad ſinful Souls, deſpiſe, obſtruct, or hate</l>
+               <l>Thoſe Men that ſeek their Cure, and better ſtate.</l>
+               <l>His humble Mind did fear himſelf in fault,</l>
+               <l>When others fell, as if he did but halt</l>
+               <l>In his good Courſe. Of late when any di'd,</l>
+               <l>His Negligence he thought againſt him cry'd.</l>
+               <l>He was much bent on Perſonal Converſe,</l>
+               <l>Leſt any Soul ſhould die, except perverſe;</l>
+               <l>And was for ſtooping low to them, whoſe low</l>
+               <l>And meaner parts requir'd, that they might know</l>
+               <l>Their God, Themſelves, their Way, and latter End,</l>
+               <l>(To Souls of every ſize he was a friend)</l>
+               <l>And wiſh'd that every one would either come</l>
+               <l>To learn, or entertain the Word at home.</l>
+               <l>He fed the Lambs, and did o'reſee the Sheep,</l>
+               <l>From Errors, Pining, Rots them ſafe to keep.</l>
+               <l>He did not pull down what another built;</l>
+               <l>He did endeavour to avoid the guilt</l>
+               <l>Of ſitting ſilent, or of juſt Offence;</l>
+               <l>And both from a well ſtudi'd pious ſenſe.</l>
+               <l>
+                  <pb n="5" facs="tcp:151414:4"/>
+                  <!-- PDF PAGE 82 -->
+He preach'd in Private, and in Publick heard;</l>
+               <l>The Private with the Publick never jarr'd.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Langly,</hi> lament thy Loſs! Tho he with Age</l>
+               <l>Was ſpent, yet ſuch Men's Deaths no good preſage:</l>
+               <l>No more then if experienc'd Horſemen fell</l>
+               <l>Dead in the Char'ot of God's <hi>Iſrael.</hi>
+               </l>
+               <l>Had he ne're ſpoken, his holy Life did tell,</l>
+               <l>The way to Heaven was by living well.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">Pretences and allegations of careleſs People</note>
+                  <hi>His Voice was low; could he not ſpeak aloud?</hi>
+               </l>
+               <l>Attentive ears will cloſe up in a Crowd.</l>
+               <l>So Souldiers will cloſe up, to underſtand</l>
+               <l>What their Commanders give them in command.</l>
+               <l>But when we ſpeak (except our Lungs we tear)</l>
+               <l>Of Life and Death, they'l ſay, they cannot hear.</l>
+               <l>But if the Preacher's voice reach not thine Ear,</l>
+               <l>Then change thy Poſture, Place, and preſs to hear.</l>
+               <l>His Doctrine pure, his Method was exact,</l>
+               <l>His Reaſons ſtrong, his Building was compact,</l>
+               <l>His Language proper, and his Heart was warm,</l>
+               <l>And yet how few, how few would hear him charm!<note place="margin">Some will not hear in private, calling it <hi>ſedi<g ref="char:EOLhyphen"/>ous,</hi> as truly as that there are armed men hid under the good Womens white Aprons.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>But Calumniator ſaith, <hi>They'r Schiſmaticks,</hi>
+               </l>
+               <l>
+                  <hi>Fanaticks, Rioters, Traitors, Hereticks,</hi>
+               </l>
+               <l>
+                  <hi>What not? He ſwears, he fears, he hears</hi>
+               </l>
+               <l>
+                  <hi>Of Horſe and Arms, of Pikes and Muſquetiers</hi>
+               </l>
+               <l>
+                  <hi>Among Diſſenters hidden lie.</hi> But where?</l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>nder Lawn Approns.</hi> 'Tis like, 'tis likely there.</l>
+            </lg>
+            <lg>
+               <l>Did ever Satan yet diſgrace a Play?</l>
+               <l>Or Works of Darkneſs acted in the Day?</l>
+               <l>'Tis lawful by his Acts to meet at Dice,</l>
+               <l>At Wine, at Swords, at Cards for Avarice:</l>
+               <l>But he could ne're abide the Word of God,</l>
+               <l>No more than Sorcerers could <hi>Aaron</hi>'s Rod.</l>
+               <l>He never ſaith there's Treaſon in a Play,</l>
+               <l>No Schiſm in ſhuffling Cards all night all day.</l>
+               <l>
+                  <pb n="6" facs="tcp:151414:5"/>
+                  <!-- PDF PAGE 83 -->
+Go ſee and hear the Plays, and hum the Stage,</l>
+               <l>Applaud the Play'rs: at Preachers hiſs and rage.</l>
+               <l>Informer, <hi>Satan,</hi> hold thy lying Tongue,</l>
+               <l>Dare not to ſay there's any Plots among</l>
+               <l>Houſe-preaching Proteſtants; for they deteſt</l>
+               <l>
+                  <hi>Plots, Papiſts, Pope,</hi> and <hi>Thee,</hi> and all the reſt.</l>
+               <l>Thou grand Ejecter, load'ſt them with diſgrace,</l>
+               <l>Thou gav'ſt ſome of thy <hi>All things</hi> for their Place,</l>
+               <l>But could'ſt not buy their <hi>Tongues:</hi> where e'r thou art,</l>
+               <l>Thou plotteſt Plots and Miſchief, that's thy part.</l>
+               <l>Though Preachers dy, yet God will raiſe enow,</l>
+               <l>That ſhall thy Plots detect and overthrow.</l>
+               <l>Our holy Preacher had no other aim,</l>
+               <l>Than Sinners teach and ſave, and Grace proclaim.</l>
+               <l>To his once Auditors, tho dead, he ſaith,</l>
+               <l>Follow my Doctrine, Charity, and Faith.</l>
+               <l>
+                  <note place="margin">An Arbor in his Garden, where he uſed to retire for ſtudy and de<g ref="char:EOLhyphen"/>votion.</note>His <hi>Arbour</hi> may be call'd a holy Bow'r,</l>
+               <l>In which he prayed many a ſilent hour.</l>
+               <l>In reeling Times he ſtood, and walk'd with God,</l>
+               <l>In the pure ſteps of <hi>Hilderſham</hi> and <hi>Dod,</hi>
+               </l>
+               <l>Of holy Martyrs kept alive by <hi>Fox,</hi>
+               </l>
+               <l>Of Loyal <hi>Puritans,</hi> and Orthodox:</l>
+               <l>He did admire the venerable <hi>
+                     <g ref="char:V">Ʋ</g>ſher,</hi>
+               </l>
+               <l>Who fought with <hi>Rome</hi> as tho he meant to cruſh her:</l>
+               <l>He took the Challenge,<note place="margin">
+                     <hi>
+                        <g ref="char:V">Ʋ</g>ſher</hi>'s Anſw. to the Chal<g ref="char:EOLhyphen"/>lenge of <hi>Ma<g ref="char:EOLhyphen"/>lone</hi> the <hi>Iriſh</hi> Jeſuit.</note> and diſarm'd <hi>Malone,</hi>
+               </l>
+               <l>And gave the Friers cauſe to cry, <hi>Ahone!</hi>
+               </l>
+               <l>Majeſtick <hi>Brownrig,</hi> and the <hi>Reynolds</hi> both,</l>
+               <l>
+                  <hi>Fulk, Whitaker,</hi> Aſſertors of the Truth:</l>
+               <l>
+                  <hi>Ames,</hi>
+                  <note place="margin">
+                     <hi>New-England Hooker,</hi> Fellow in <hi>Eman.</hi> Coll. when he was ſtudent there. He would of<g ref="char:EOLhyphen"/>ten ſpeak of him with ad<g ref="char:EOLhyphen"/>miration.</note> 
+                  <hi>Brightman, Perkins, Bradſhaw,</hi> and <hi>Paul Bains,</hi>
+               </l>
+               <l>Who in their ſeveral ways took worthy Pains.</l>
+               <l>He'd ſpeak of <hi>Hooker</hi> in <hi>Immanuel,</hi>
+               </l>
+               <l>Of both the <hi>Dyke's,</hi> the worthy <hi>Daniel;</hi>
+               </l>
+               <l>And <hi>Boanerges Jeremy,</hi> (ſo he</l>
+               <l>To call him us'd) <hi>Richardſon</hi> and <hi>Eſtee,</hi>
+               </l>
+               <l>
+                  <pb n="7" facs="tcp:151414:5"/>
+                  <!-- PDF PAGE 83 -->
+(Great Men in his eſteem) he would ſcarce yeild</l>
+               <l>That any better knew, of <hi>Wethersfield,</hi>
+               </l>
+               <l>
+                  <hi>Daniel</hi> the Son of <hi>Rogers. Sibbs</hi> the ſweet,</l>
+               <l>
+                  <hi>Preſton</hi> the clear, and more of them did meet,<note place="margin">
+                     <hi>Mrs. King</hi>'s Wife was <hi>Mr. G. Throckmor<g ref="char:EOLhyphen"/>ton</hi>'s Siſter.</note>
+               </l>
+               <l>With this their holy melancholy Brother</l>
+               <l>
+                  <hi>Throckmorton (George)</hi> yea and many other</l>
+               <l>Good Men, eſteem'd by Saints of Great Renown,</l>
+               <l>That ſtrove to make the Abbots-Ley, God's Town.</l>
+               <l>I'le not leave out that pair of <hi>Anthonies</hi>
+                  <note place="margin">Mr. Anthony Burgeſs <hi>of</hi> Sut<g ref="char:EOLhyphen"/>ton Cofield, <hi>&amp; Dr.</hi> Tuckney.</note>
+               </l>
+               <l>
+                  <hi>Burgeſs</hi> and <hi>Tuckney,</hi> his Learned Chronies:</l>
+               <l>Nor yet his much beloved Doctor <hi>Stanton,</hi>
+               </l>
+               <l>That daily Preacher. And admired <hi>Manton,</hi>
+               </l>
+               <l>Some months before him, got a ſpeedy Wind,</l>
+               <l>And left him working for a while behind.</l>
+               <l>
+                  <hi>Baxter</hi> takes often leave, and cannot go,</l>
+               <l>He ſtays a Cauſe to plead, and Reaſon ſhow,</l>
+               <l>Why he and more ſhould have their Liberty,</l>
+               <l>To reſcue Souls from Hell's Captivity.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">Biſhop <hi>Morley</hi> of <hi>Wincheſter,</hi> and <hi>Gunning</hi> of <hi>Ely,</hi> to whom he dedi<g ref="char:EOLhyphen"/>cates his laſt Book.</note>He puts two Biſhops in the Court Chriſtian,</l>
+               <l>For breaking Peace, to anſwer, if they can,</l>
+               <l>For fouleſt Sacrilege, and other Crimes,</l>
+               <l>For Outing Labourers in working times.</l>
+               <l>If they ſhould ſtop his mouth, and hinder <hi>Love,</hi>
+               </l>
+               <l>He'll move the Judg to hear the Cauſe <hi>above.</hi>
+               </l>
+               <l>I fear he'll get his promis'd Writ of Eaſe,<note place="margin">The Title of his Book, the <hi>Non-conform<g ref="char:EOLhyphen"/>iſts Plea.</hi>
+                  </note>
+               </l>
+               <l>Before he end his Suit in <hi>Common-Pleas.</hi>
+               </l>
+               <l>But our dear Friend from hence is thither gone,</l>
+               <l>Where <hi>all</hi> are <hi>Puritans,</hi> and <hi>all are one.</hi>
+               </l>
+               <l>No Schiſm's there, nor Non-conformity;</l>
+               <l>No Croſs, but crowned Heads in Unity.</l>
+               <l>His Heart was with them here, but now his Soul</l>
+               <l>Is with them there, where Love and Peace controul.</l>
+               <l>Were there no more in Heav'n than thoſe that I</l>
+               <l>Have nam'd, in Light, in Love, in Purity,</l>
+               <l>
+                  <pb n="8" facs="tcp:151414:6"/>
+                  <!-- PDF PAGE 84 -->
+How happy He! But there are Millions more,</l>
+               <l>Whoſe Names and Faces he ne're knew before,</l>
+               <l>And many more to come; for 'tis God's will,</l>
+               <l>That more be call'd, come in, his Houſe to fill.</l>
+               <l>
+                  <hi>Zaccheus</hi> having long'd our Lord to ſee,</l>
+               <l>Above the Multitude did climb a Tree:</l>
+               <l>So this bleſt Soul is got 'bove Sycamore,</l>
+               <l>To praiſe and ſee, and ſeeing to adore</l>
+               <l>His Jeſus, Lord, and King, 'bove Multitude,</l>
+               <l>'Bove Duſt and Wrath, in clear Beatitude,</l>
+               <l>Above imperfect Grace, and Faith's dim Light,</l>
+               <l>To ſee the All in All, A bleſſed Sight!</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1680.</p>
+            <pb facs="tcp:151414:6"/>
+            <!-- PDF PAGE 84 -->
+         </div>
+      </back>
+   </text>
+</TEI>
